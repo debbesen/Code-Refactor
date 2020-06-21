@@ -1,0 +1,28 @@
+p { font-weight: 200;
+font-family: Georgia, 'Times New Roman', Times, serif;}
+li
+{color: rgb(252, 6, 6);
+}
+ul 
+{color: red}
+body 
+{background: burlywood;}
+h1 
+{font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+color: cornsilk;}
+h2
+{font-family: monospace;
+}
+h3
+{font-family: monospace;
+font-size: 20px;}
+div 
+{word-wrap: inherit;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 150px;}
+.footer 
+{background-color: rgb(236, 230, 140);
+text-align: center;
+float: right;}
